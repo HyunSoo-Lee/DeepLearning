@@ -1,0 +1,16 @@
+01_perceptron.ipynb
+02_gradient_descent.ipynb
+03_generalized_gradient_descent.ipynb
+04_data_representation_for_NN.ipynb
+05_linear_regression.ipynb
+06_implementing_linear_regression_with_from_scratch_for beginner.ipynb
+07_GD with MNIST.ipynb
+08_introducing_backpropagation.ipynb
+09_logistic_regression.ipynb
+10_GD with MNIST_revision.ipynb
+11_activation_function.ipynb
+12_NN_from_scratch.ipynb
+15_dropout.ipynb
+16_hyperparameter_optimization.ipynb
+19_DNN_with_keras-1.ipynb
+20_CNN_with_keras.ipynb
