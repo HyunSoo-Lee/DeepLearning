@@ -15,3 +15,6 @@
 19_DNN_with_keras-1.ipynb
 20_CNN_with_keras.ipynb
 22_RNN_with_keras.ipynb
+spam_ham_dataset_cleaned.csv
+proj_03_원본.ipynb
+best-simplernn-model.h5
